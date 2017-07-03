@@ -88,6 +88,7 @@
     <modules>
         <module>kwsys-core</module>
         <module>kwsys-common</module>
+        <module>kwsys-web</module>
     </modules>
 
     <properties>
@@ -96,6 +97,7 @@
         <slf4j.version>1.7.25</slf4j.version>
         <log4j.version>1.2.17</log4j.version>
         <junit.version>4.12</junit.version>
+        <hessian.version>4.0.38</hessian.version>
     </properties>
 
     <dependencyManagement>
@@ -105,6 +107,13 @@
                 <groupId>com.google.guava</groupId>
                 <artifactId>guava</artifactId>
                 <version>${guava.version}</version>
+            </dependency>
+
+            <!-- Serialization -->
+            <dependency>
+                <groupId>com.caucho</groupId>
+                <artifactId>hessian</artifactId>
+                <version>${hessian.version}</version>
             </dependency>
 
             <!-- Logging -->
