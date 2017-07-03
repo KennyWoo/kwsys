@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/kwsys.iml" filepath="$PROJECT_DIR$/kwsys.iml" />
       <module fileurl="file://$PROJECT_DIR$/kwsys-common/kwsys-common.iml" filepath="$PROJECT_DIR$/kwsys-common/kwsys-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/kwsys-core/kwsys-core.iml" filepath="$PROJECT_DIR$/kwsys-core/kwsys-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kwsys-security/kwsys-security.iml" filepath="$PROJECT_DIR$/kwsys-security/kwsys-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/kwsys-web/kwsys-web.iml" filepath="$PROJECT_DIR$/kwsys-web/kwsys-web.iml" />
     </modules>
   </component>

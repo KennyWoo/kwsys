@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="kwsys-common" />
         <module name="kwsys-core" />
+        <module name="kwsys-security" />
         <module name="kwsys-web" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="kwsys" target="1.5" />
       <module name="kwsys-common" target="1.5" />
       <module name="kwsys-core" target="1.5" />
+      <module name="kwsys-security" target="1.5" />
       <module name="kwsys-web" target="1.5" />
     </bytecodeTargetLevel>
   </component>

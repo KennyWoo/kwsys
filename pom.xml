@@ -88,6 +88,7 @@
     <modules>
         <module>kwsys-core</module>
         <module>kwsys-common</module>
+        <module>kwsys-security</module>
         <module>kwsys-web</module>
     </modules>
 
